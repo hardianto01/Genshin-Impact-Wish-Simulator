@@ -95,24 +95,6 @@
 <!-- Crypto Donate -->
 <div class="container">
 	<ColumnParent>
-		<Column>
-			<a
-				class="content kofi"
-				href="https://ko-fi.com/mantan21"
-				target="_blank"
-				in:fade={{ duration: 300, delay: Math.sqrt(0 * 5000) }}
-			>
-				<div
-					style="display: flex;justify-content: center; align-items: center; width: 100%; height: 100%"
-				>
-					<div class="donate-icon">
-						<img src={$assets['donate-kofi.png']} alt="Ko-fi Icon" />
-						<img src={$assets['paypal.png']} alt="paypal" />
-					</div>
-				</div>
-				<span> Support me on Ko-fi </span>
-			</a>
-		</Column>
 
 		<!-- Donaate By Saweria -->
 		<Column style="padding: 0.4rem;">
@@ -134,28 +116,26 @@
 				<span> Support me on Saweria </span>
 			</a>
 		</Column>
-
-		<!-- Donate By Crypto -->
 		<Column style="padding: 0.4rem;">
-			<button
-				class="content crypto"
-				on:click={() => {
-					showCryptoModal = true;
-				}}
-				in:fade={{ duration: 300, delay: Math.sqrt(2 * 5000) }}
+			<a
+				class="content Saweria"
+				href="https://saweria.co/trakteerSusuKotak"
+				target="_blank"
+				in:fade={{ duration: 300, delay: Math.sqrt(1 * 5000) }}
 			>
 				<div
 					style="display: flex;justify-content: center; align-items: center; width: 100%; height: 100%"
 				>
 					<div class="donate-icon">
-						{#each ['btc', 'ethereum', 'bnb', 'solana'] as im}
+						{#each ['ovo', 'dana', 'linkaja'] as im}
 							<img src={$assets[`donate-${im}.png`]} alt="{im} icon" />
 						{/each}
 					</div>
 				</div>
-				<span> Support me with Crypto </span>
-			</button>
+				<span> Support me anto juga di Saweria </span>
+			</a>
 		</Column>
+
 	</ColumnParent>
 	<div class="recent">
 		{#if listOfSupporters.length > 0}
