@@ -30,7 +30,7 @@ I'm not expert, I can't write clean code, but I try to create this Genshin Impac
 
 ![Buying Welkin](https://user-images.githubusercontent.com/13815468/212980583-7539f527-c6bb-4005-8322-8996b59937fe.gif)
 
-> For more preview, please visit the live version at [https://wishsimulator.app](https://wishsimulator.app)
+> For more preview, please visit the live version at [https://gs.anto.cf](https://gs.anto.cf)
 
 ---
 

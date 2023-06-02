@@ -132,7 +132,7 @@
 </script>
 
 <div class="wish-result" style="background-image: url({splashBG});">
-	<div class="uid">WishSimulator.App</div>
+	<div class="uid">gs.anto.cf</div>
 	<img
 		src={$assets[`genshin-logo${isYuanshen ? '-cn' : ''}.webp`]}
 		alt="genshin logo"

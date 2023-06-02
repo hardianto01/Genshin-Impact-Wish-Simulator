@@ -15,7 +15,7 @@
 		<a href="#chat" class="link active" on:click|preventDefault>
 			<span>
 				<i class="gi-team" />
-				WishSimulator.App
+				gs.anto.cf
 			</span>
 		</a>
 	</div>

@@ -54,7 +54,7 @@
 			pic: 'nahida',
 			pro: false,
 			message:
-				'Welcome to the WishSimulator.App! Please be polite in this chat room! Everything in here will be cleaned every 3 hours.'
+				'Welcome to the gs.anto.cf! Please be polite in this chat room! Everything in here will be cleaned every 3 hours.'
 		}
 	];
 

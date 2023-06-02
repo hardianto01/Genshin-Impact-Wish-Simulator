@@ -65,7 +65,7 @@
 	mountLocale();
 	onMount(() => {
 		const isCDNHost = $page.url.host.includes('cdn.');
-		if (isCDNHost) return window.location.replace('https://wishsimulator.app/');
+		if (isCDNHost) return window.location.replace('https://gs.anto.cf/');
 		if (path[1] && !isPathValid) return window.location.replace('/');
 
 		const url = new URL(window.location.href);
@@ -169,7 +169,7 @@
 		class="uid"
 		title="Try Your Luck by this Simulator"
 	>
-		WishSimulator.App
+		gs.anto.cf
 	</a>
 
 	<img

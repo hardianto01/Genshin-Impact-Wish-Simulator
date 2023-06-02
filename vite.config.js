@@ -47,7 +47,7 @@ const screenshots = [
 const manifest = {
 	orientation: 'landscape',
 	name: VITE_APP_TITLE,
-	short_name: 'WishSimulator.App',
+	short_name: 'gs.anto.cf',
 	theme_color: '#ffffff',
 	background_color: '#ffffff',
 	display: 'fullscreen',
@@ -66,8 +66,8 @@ const manifest = {
 		},
 		{
 			platform: 'play',
-			url: 'https://play.google.com/store/apps/details?id=twa.wishsimulator.app',
-			id: 'twa.wishsimulator.app'
+			url: 'https://play.google.com/store/apps/details?id=twa.gs.anto.cf',
+			id: 'twa.gs.anto.cf'
 		}
 	]
 };

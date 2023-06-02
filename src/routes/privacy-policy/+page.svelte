@@ -12,7 +12,7 @@
 
 <section>
 	<header>
-		<h1>Privacy Policy for WishSimulator.App</h1>
+		<h1>Privacy Policy for gs.anto.cf</h1>
 		<h2>Genshin Impact Wish Simulator</h2>
 	</header>
 

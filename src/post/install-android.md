@@ -1,4 +1,4 @@
-# How To Install WishSimulator.App to your <span> Android Phone</span>
+# How To Install gs.anto.cf to your <span> Android Phone</span>
 
 ## Why I need to Install it ?
 
@@ -9,7 +9,7 @@ You are not required to install it, the installed app is literally the same as t
 
 ## Steps
 
-1. First, Open the site (**https://wishsimulator.app**) with **Google Chrome**.
+1. First, Open the site (**https://gs.anto.cf**) with **Google Chrome**.
 2. Wait for the site to finish loading, **Click three dot** on the top rignt of the browser screen
 
    ![three dot](https://user-images.githubusercontent.com/13815468/200664873-5d99f256-38c1-4a76-a492-329e164c8f7a.jpg)
@@ -28,4 +28,4 @@ You are not required to install it, the installed app is literally the same as t
 
 6. Congratulations, Now you can access the Simulator directly from your Homescreen !
 7. If You want to uninstall it, Just uninstall like a regular application. Press & Hold the app Icon, then select **Uninstall** option.
-8. Alternative option, you can download and install the App from <a href="https://play.google.com/store/apps/details?id=twa.wishsimulator.app" target="_blank"><img style="width: 7rem; transform: translateY(35%)" src="/images/utility/playstore-button.webp" alt="playstore button"/></a>. But you don't need to download it if you already install WishSimulator.App directly from web, because it's literally same!
+8. Alternative option, you can download and install the App from <a href="https://play.google.com/store/apps/details?id=twa.gs.anto.cf" target="_blank"><img style="width: 7rem; transform: translateY(35%)" src="/images/utility/playstore-button.webp" alt="playstore button"/></a>. But you don't need to download it if you already install gs.anto.cf directly from web, because it's literally same!

@@ -74,7 +74,7 @@
 			<i class="gi-close" />
 		</button>
 
-		<div class="uid">WishSimulator.App</div>
+		<div class="uid">gs.anto.cf</div>
 		<OutfitToggle charName={name} />
 
 		<div class="splatter" style={splatterStyle}>
