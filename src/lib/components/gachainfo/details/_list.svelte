@@ -1,6 +1,5 @@
 <script>
 	import { t } from 'svelte-i18n';
-	import Ads from '../../utility/Iklan.svelte';
 
 	export let drop5star;
 	export let drop4star;
@@ -93,7 +92,6 @@
 		</div>
 	</div>
 
-	<Ads type="banner" />
 
 	<h3 class="star3">
 		<div class="star">

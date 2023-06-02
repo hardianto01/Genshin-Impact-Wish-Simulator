@@ -23,3 +23,7 @@ yarn-debug.log*
 yarn-error.log*
 
 ads.txt
+yarn.lock
+.env.example
+.gitignore
+package-lock.json
